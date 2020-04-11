@@ -3,6 +3,7 @@ ifconfig wlp3s0 down;
 ifconfig wlp3s0 hw ether 2C:B2:1A:ED:1E:51;
 ifconfig wlp3s0 up;
 #备用MAC地址
+#--------------------------d jb rg g wug lk g----------------------------------#
 #FC:D7:33:2C:54:27		TP-LINK TECHNOLOGIES CO.,LTD.（路由器）
 #4C:B0:08:36:B8:87		Shenzhen Gwelltimes Technology Co.,Ltd（监控摄像头）
 #54:A7:03:3F:78:D5		TP-LINK TECHNOLOGIES CO.,LTD.(扩展器）
@@ -28,5 +29,5 @@ ifconfig wlp3s0 up;
 #30:21:8C:08:51:3B		蓝牙音箱
 #54:19:C8:FC:B7:46
 #48:7D:2E:C5:0C:4C		TP-LINK_0C4D
-#---------------------------------------------------------------------#
-#D8:C8:E9:80:8A:70		PHICOMM_68
+#---------------------------d jb rg g wug udg g--------------------------------------#
+#D8:C8:E9:80:8A:71		PHICOMM_68
