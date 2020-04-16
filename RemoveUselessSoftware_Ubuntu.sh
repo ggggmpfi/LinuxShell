@@ -1,5 +1,5 @@
 #!/bin/bash
-#重装桌面后的卸载工作
+#Ubuntu重装gnome桌面后的卸载工作
 #libreoffice套件
 sudo apt remove libreoffice-pdfimport
 sudo apt remove libreoffice-writer
